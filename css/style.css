@@ -1,0 +1,144 @@
+body{
+	margin: 0px;
+	padding: 0px;	
+}
+.emain{
+	width: 100%;
+	height: auto;
+	background: yellow;
+	display: inline-block;
+	float: left;
+}
+.mainimglere{
+	width: 1249px;
+	height: 415px;
+}
+.mainimg1e{
+	width: 360px;
+	height: 488px;
+	display: inline-block;
+	float: left;
+	margin-top: 90px;
+	margin-left: 105px;	
+
+}
+.mainimg2e{
+	width: 360px;
+	height: 488px;
+	display: inline-block;
+	float: left;
+	margin-top: 29px;
+	margin-left: 32px;
+}
+.mainimg3e{
+	width: 360px;
+	height: 488px;
+	display: inline-block;
+	float: left;
+	margin-top: -30px;
+	margin-left: 32px;
+}
+
+.etext1{
+	position: absolute;
+	top:370px;
+	left: 230px;
+	font-size: 15px;
+	color: #353535;
+	font-weight: bold;
+}
+.etext2{
+	color: #8c9398;
+    word-spacing: 1px;
+    line-height: 25px;
+    font-size: 14px;
+}
+.etext3{
+	position: absolute;
+	top:370px;
+	left: 630px;
+	font-size: 15px;
+	color: #353535;
+	font-weight: bold;
+}
+.etext4{
+	position: absolute;
+	top:370px;
+	left: 1030px;
+	font-size: 15px;
+	color: #353535;
+	font-weight: bold;
+}
+.etext5{
+	color: #8c9398;
+    word-spacing: 1px;
+    line-height: 25px;
+    font-size: 14px;
+}
+.etext7{
+	display: inline-block;
+    padding: 25px 40px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.nokte1e{
+	width: 13px;
+	height: 13px;
+	background: #212024;
+    cursor: default;
+    display: block;
+    border-radius: 20px;
+    border: 3px solid #c9cbca;
+    position: absolute;
+  	left: 680px;
+}
+.ignitee{
+	width: 100%;
+	height: 214px;
+	display: inline-block;
+	float: left;
+	background: #242830;
+	margin-top: 112px;
+}
+.inignite{
+	width: 259px;
+	height: 71px;
+	margin-left: 545px;
+	margin-top: 72px;
+	border: solid 1px #fff;
+
+}
+.inmain3e{
+	width: 360px;
+	height: 488px;
+	display: inline-block;
+	float: left;
+}
+h1.arrow {
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #353535;
+    letter-spacing: 1px;
+    background: url(../image/h1-bg.png) no-repeat center bottom;
+    padding-bottom: 30px;
+    font-weight: bold;
+    position: absolute;
+    bottom: -105px;
+    left: 500px;
+h2::after {
+    content: " ";
+    border: solid 2px #3dc9b3;
+    display: block;
+    width: 35px;
+    margin: 25px auto;
+    position: absolute;
+    top:380px;
+	left: 280px;
+
+
+
+	
+
+
